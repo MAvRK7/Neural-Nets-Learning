@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhR
 https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5
 6. Makemore5: Wavenet (over Bengio), little conv NN
 https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6
-7. GPT: Attentn is all you need. Tansoformers, Mini Shakspr, class coding, shapes. Little LLM finetuneing
+7. GPT: Attentn is all you need. Tansformers, Mini Shakspr, class coding, shapes. Little LLM finetuneing
 https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7
 8. token: Into tokenizatn, unicode, bytes, encoding, decoding, regex, tiktoken, importance
 https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9
