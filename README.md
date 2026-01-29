@@ -18,5 +18,5 @@ https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhR
 https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7
 8. token: Into tokenizatn, unicode, bytes, encoding, decoding, regex, tiktoken, importance
 https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9
-9. GPT-2:
+9. GPT-2: Loading it, making it better (faster, approx, flash attentn, nice nums, algo, more cores (DDP), dataset+, "chat"
 https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10
